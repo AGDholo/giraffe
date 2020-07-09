@@ -37,7 +37,7 @@
 
           <v-col cols="12" md="3">
             <v-list flat color="transparent">
-              <v-subheader class="text-h6">Shock</v-subheader>
+              <v-subheader class="text-h6">Giraffe</v-subheader>
               <v-list-item-group color="primary">
                 <v-list-item
                   v-for="(item, i) in shock"
@@ -123,15 +123,15 @@ export default {
     shock: [
       {
         text: "Download",
-        href: "https://github.com/heroui/shock",
+        href: "https://github.com/heroui/giraffe",
       },
       {
         text: "Issues",
-        href: "https://github.com/heroui/shock/issues",
+        href: "https://github.com/heroui/giraffe/issues",
       },
       {
         text: "LICENSE",
-        href: "https://github.com/heroui/shock/blob/master/LICENSE",
+        href: "https://github.com/heroui/giraffe/blob/master/LICENSE",
       },
     ],
   }),
