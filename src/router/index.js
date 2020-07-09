@@ -4,11 +4,16 @@ import Home from '../views/Home.vue'
 
 Vue.use(VueRouter)
 
-  const routes = [
+const routes = [
   {
     path: '/',
     name: 'Home',
     component: Home
+  },
+  {
+    path: '/category',
+    name: 'Category',
+    component: () => import("@/views/Category.vue"),
   }
 ]
 
