@@ -101,8 +101,8 @@ export default {
         to: "/category"
       },
       {
-        title: "Details",
-        to: "/details"
+        title: "Detail",
+        to: "/detail"
       },
       {
         title: "Authors",
