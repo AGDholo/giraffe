@@ -230,8 +230,8 @@
                     <v-col cols="12" md="6" lg="4">
                       <div class="d-flex align-center text-right">
                         <div class="text-h6 primary--text pr-2">
-                          <div class="text-subtitle-1">Previous Post</div>Photos of Jeep models that will change
-                          your mood
+                          <div class="text-subtitle-1">Next Post</div>What do I need to know to start learning
+                          JavaScript?
                         </div>
 
                         <div>
