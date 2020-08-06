@@ -109,29 +109,25 @@ export default {
     heroui: [
       {
         text: "Github",
-        href: "https://github.com/heroui",
+        href: "https://github.com/AGDholo",
       },
       {
         text: "Themes",
         href: "https://heroui.net/",
       },
-      {
-        text: "Vuetify Tutorials",
-        href: "https://heroui.net/vuetify2-guide/",
-      },
     ],
     shock: [
       {
         text: "Download",
-        href: "https://github.com/heroui/giraffe",
+        href: "https://github.com/AGDholo/giraffe",
       },
       {
         text: "Issues",
-        href: "https://github.com/heroui/giraffe/issues",
+        href: "https://github.com/AGDholo/giraffe/issues",
       },
       {
         text: "LICENSE",
-        href: "https://github.com/heroui/giraffe/blob/master/LICENSE",
+        href: "https://github.com/AGDholo/giraffe/blob/master/LICENSE",
       },
     ],
   }),

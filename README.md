@@ -1,4 +1,4 @@
-# [HeroUI - Giraffe](https://heroui.net/previews/giraffe.html)
+# HeroUI - Giraffe
 
 Giraffe is a complete application theme, Giraffe theme built with [Vuetify](https://vuetifyjs.com/) created by [HeroUI](https://heroui.net/). It is a solution that displays dense content, such as news, blogs or magazines, including news, authors, classified pages, and so on. 
 Giraffe are characterized by a large number of components assembled together and look amazing. 
@@ -22,17 +22,17 @@ Clone the source files of the theme and navigate into the theme's root directory
 
 ## Bug & Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/heroui/giraffe/issues).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/AGDholo/giraffe/issues).
 
 ## About
 
 Giraffe is an open source library of free Vuetify themes and templates。All of the free themes and templates on HeroUI are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
 - <https://heroui.net/>
-- <https://github.com/heroui>
+- <https://github.com/AGDholo>
 
 Giraffe based on the [Vuetify](https://vuetifyjs.com/) framework created by [Pika](https://twitter.com/P1kaP1kaChu_).
 
 ## Copyright and License
 
-Copyright 2020 HeroUI LLC. Code released under the [MIT](https://github.com/heroui/giraffe/blob/master/LICENSE) license.
+Copyright 2020 HeroUI LLC. Code released under the [MIT](https://github.com/AGDholo/giraffe/blob/master/LICENSE) license.

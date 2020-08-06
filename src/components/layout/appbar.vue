@@ -85,7 +85,7 @@ export default {
     btnItems: [
       {
         text: "Free Download",
-        href: "https://github.com/heroui/giraffe",
+        href: "https://github.com/AGDholo/giraffe",
         target: "_black",
         color: "primary",
         icon: "mdi-download"
