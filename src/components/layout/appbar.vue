@@ -21,20 +21,39 @@
             <v-list-item-title>{{ item.text }}</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
+        <v-list-item
+          v-for="(item, i) in barItems"
+          :key="i"
+          link
+          :to="item.to"
+          :href="item.href"
+          :target="item.target"
+        >
+          <v-list-item-content>
+            <v-list-item-title>{{ item.title }}</v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
       </v-list>
     </v-navigation-drawer>
 
     <v-app-bar
-      fixed
       app
       flat
       :clipped-left="$vuetify.breakpoint.lgAndUp"
       color="white"
+      elevate-on-scroll
     >
-      <v-container>
-        <v-row align="center" justify="space-between">
+      <v-container class="px-0">
+        <v-row
+          align="center"
+          justify="space-between"
+          :no-gutters="!$vuetify.breakpoint.smAndUp"
+        >
           <v-col class="d-flex align-center">
-            <v-app-bar-nav-icon @click.stop="drawer = !drawer" v-if="!$vuetify.breakpoint.smAndUp" />
+            <v-app-bar-nav-icon
+              @click.stop="drawer = !drawer"
+              v-if="!$vuetify.breakpoint.smAndUp"
+            />
             <v-toolbar-title
               style="cursor: pointer"
               class="font-weight-bold text-h5 primary--text"
@@ -45,7 +64,7 @@
             </v-toolbar-title>
           </v-col>
 
-          <v-col>
+          <v-col v-if="$vuetify.breakpoint.smAndUp">
             <v-btn
               v-for="(item, i) in barItems"
               :key="i"
@@ -54,7 +73,8 @@
               :to="item.to"
               exact-active-class="accent--text"
               exact
-            >{{ item.title }}</v-btn>
+              >{{ item.title }}</v-btn
+            >
           </v-col>
 
           <v-col class="text-right" v-if="$vuetify.breakpoint.smAndUp">
@@ -88,27 +108,27 @@ export default {
         href: "https://github.com/AGDholo/giraffe",
         target: "_black",
         color: "primary",
-        icon: "mdi-download"
-      }
+        icon: "mdi-download",
+      },
     ],
     barItems: [
       {
         title: "Home",
-        to: "/"
+        to: "/",
       },
       {
         title: "Category",
-        to: "/category"
+        to: "/category",
       },
       {
         title: "Detail",
-        to: "/detail"
+        to: "/detail",
       },
       {
         title: "Authors",
-        to: "/authors"
-      }
-    ]
-  })
+        to: "/authors",
+      },
+    ],
+  }),
 };
 </script>
