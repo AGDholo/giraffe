@@ -43,7 +43,7 @@
       color="white"
       elevate-on-scroll
     >
-      <v-container class="px-0">
+      <v-container :class="{ 'px-0': !$vuetify.breakpoint.smAndUp }">
         <v-row
           align="center"
           justify="space-between"
