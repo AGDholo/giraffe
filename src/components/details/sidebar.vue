@@ -78,7 +78,7 @@
 
       <v-divider></v-divider>
 
-      <v-row>
+      <v-row class="pt-4">
         <v-col v-for="i in 7" :key="i" class="flex-shrink-0" cols="auto">
           <v-chip color="accent">#Images</v-chip>
         </v-col>
