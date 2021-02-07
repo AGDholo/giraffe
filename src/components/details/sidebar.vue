@@ -10,7 +10,7 @@
           <v-col cols="12" md="6" lg="5">
             <v-card height="100%" flat>
               <v-img
-                src="https://cdn.pixabay.com/photo/2020/06/30/22/34/dog-5357794_1280.jpg"
+                src="https://cdn.pixabay.com/photo/2021/01/22/16/55/camera-5940588_1280.jpg"
                 :aspect-ratio="16 / 9"
                 height="100%"
               ></v-img>
@@ -22,8 +22,7 @@
               <v-btn depressed color="accent" small>TRAVEL</v-btn>
 
               <h3 class="text-h6 font-weight-bold primary--text py-3">
-                What do | need to know to
-                start learning JavaScript?
+                What do | need to know to start learning JavaScript?
               </h3>
 
               <div class="d-flex align-center">
@@ -45,7 +44,9 @@
       <v-divider></v-divider>
 
       <v-card color="accent" dark flat v-for="i in 5" :key="i" class="my-4">
-        <v-card-text class="d-flex justify-space-between align-center white--text">
+        <v-card-text
+          class="d-flex justify-space-between align-center white--text"
+        >
           <h6 class="text-h6">Travel</h6>
 
           <div class="text-h6">47</div>
@@ -89,7 +90,14 @@
 
       <v-divider></v-divider>
 
-      <v-text-field label="Your email adress" solo type="email" outlined flat class="pt-4"></v-text-field>
+      <v-text-field
+        label="Your email adress"
+        solo
+        type="email"
+        outlined
+        flat
+        class="pt-4"
+      ></v-text-field>
       <v-btn color="accent" block large>Subscrbe</v-btn>
     </div>
   </div>
