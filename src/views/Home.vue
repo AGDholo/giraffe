@@ -1,7 +1,7 @@
 <template>
   <div>
     <div>
-      <v-card>
+      <v-card to="detail">
         <v-img
           src="https://cdn.pixabay.com/photo/2021/01/31/04/55/boat-5965850_1280.jpg"
           gradient="to top, rgba(25,32,72,.7), rgba(25,32,72,.0)"
@@ -12,7 +12,7 @@
           <v-card-text class="fill-height d-flex align-end">
             <v-row class="flex-column">
               <v-col>
-                <v-btn color="accent">Travel</v-btn>
+                <v-btn color="accent" to="category">Travel</v-btn>
               </v-col>
               <v-col cols="12" md="10" lg="8" xl="7">
                 <h2 class="text-h3 py-3" style="line-height: 1.2">
@@ -51,6 +51,7 @@
                       :color="hover ? 'white' : 'transparent'"
                       :elevation="hover ? 12 : 0"
                       hover
+                      to="/detail"
                     >
                       <v-img
                         src="https://cdn.pixabay.com/photo/2020/12/23/14/41/forest-5855196_1280.jpg"
@@ -61,7 +62,7 @@
                         style="border-radius: 16px"
                       >
                         <v-card-text>
-                          <v-btn color="accent">TIPS</v-btn>
+                          <v-btn color="accent" to="category">TIPS</v-btn>
                         </v-card-text>
                       </v-img>
 
