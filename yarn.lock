@@ -8067,7 +8067,7 @@ vuetify-loader@^1.3.0:
     file-loader "^6.2.0"
     loader-utils "^2.0.0"
 
-vuetify@^2.3.9:
+vuetify@^2.4.0:
   version "2.4.3"
   resolved "https://registry.npm.taobao.org/vuetify/download/vuetify-2.4.3.tgz#8d6f15dde396e81f64e130d8ac0bc272e030879c"
   integrity sha1-jW8V3eOW6B9k4TDYrAvCcuAwh5w=
