@@ -3,7 +3,7 @@
     <div>
       <v-card to="detail">
         <v-img
-          src="https://cdn.pixabay.com/photo/2021/01/31/04/55/boat-5965850_1280.jpg"
+          src="https://images.pexels.com/photos/3244513/pexels-photo-3244513.jpeg"
           gradient="to top, rgba(25,32,72,.7), rgba(25,32,72,.0)"
           :aspect-ratio="16 / 9"
           height="500px"
@@ -21,7 +21,7 @@
               </v-col>
               <v-col class="d-flex align-center">
                 <v-avatar class="elevation-4" color="accent">
-                  <v-icon large color>mdi-feather</v-icon>
+                  <v-icon large>mdi-feather</v-icon>
                 </v-avatar>
 
                 <div class="text-h6 pl-2">Yan Lee · 22 July 2019</div>
