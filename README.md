@@ -33,7 +33,7 @@ Giraffe is an open source library of free Vuetify themes and templates。All of 
 - <https://heroui.net/>
 - <https://github.com/AGDholo>
 
-Giraffe based on the [Vuetify](https://vuetifyjs.com/) framework created by [Pika](https://twitter.com/P1kaP1kaChu_).
+Giraffe based on the [Vuetify](https://vuetifyjs.com/) framework created by [stackFlam1ngo](https://twitter.com/stackFlam1ngo).
 
 ## Copyright and License
 
