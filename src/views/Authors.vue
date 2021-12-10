@@ -5,7 +5,8 @@
         <div>
           <div>
             <div class="my-2">
-              <h2 class="text-h4 font-weight-bold">Our Authors</h2>
+              <h2 class="text-h4 font-weight-bold">Si fuera tu no lo pensaba!!</h2>
+              <h2 class="text-h4 font-weight-bold">Compra tu boleto ahora mismo</h2>
             </div>
 
             <v-row>
