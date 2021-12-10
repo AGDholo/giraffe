@@ -5,9 +5,11 @@
         <div>
           <div>
             <div class="my-2">
-              <h2 class="text-h4 font-weight-bold">Si fuera tu no lo pensaba!!</h2>
-              <h2 class="text-h4 font-weight-bold">Compra tu boleto ahora mismo</h2>
+              <h1 class="text-h4 font-weight-bold">Si fuera tu no lo pensaba!!</h1>
+              
+              <p class="text-h4 font-weight-bold">Te ofrecemos un servicio de calidad a un excelente precio.</p>
             </div>
+            
 
             <v-row>
               <v-col cols="12" md="6" v-for="i in 8" :key="i">
