@@ -37,4 +37,12 @@ Giraffe based on the [Vuetify](https://vuetifyjs.com/) framework created by [sta
 
 ## Copyright and License
 
-Copyright 2020 HeroUI LLC. Code released under the [MIT](https://github.com/AGDholo/giraffe/blob/master/LICENSE) license.
+Copyright 2022 HeroUI LLC. Code released under the [MIT](https://github.com/AGDholo/giraffe/blob/master/LICENSE) license.
+
+## Sponsor
+I accept all sponsorship, if you want to cooperate, please feel free to contact me.
+
+
+![WebStorm logo](https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm.png)
+
+
