@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-footer color="primary" dark app absolute>
+    <v-card absolute app color="primary" dark flat>
       <v-container>
         <v-row align="start">
           <v-col cols="12" md="3">
@@ -14,20 +14,20 @@
           </v-col>
 
           <v-col cols="12" md="3">
-            <v-list flat color="transparent">
+            <v-list color="transparent" flat>
               <v-subheader class="text-h6">HeroUI</v-subheader>
               <v-list-item-group color="primary">
                 <v-list-item
-                  v-for="(item, i) in heroui"
-                  :key="i"
-                  :href="item.href"
-                  dense
-                  target="_black"
+                    v-for="(item, i) in heroui"
+                    :key="i"
+                    :href="item.href"
+                    dense
+                    target="_black"
                 >
                   <v-list-item-content>
                     <v-list-item-title
-                      class="text-body-1"
-                      v-text="item.text"
+                        class="text-body-1"
+                        v-text="item.text"
                     ></v-list-item-title>
                   </v-list-item-content>
                 </v-list-item>
@@ -36,20 +36,20 @@
           </v-col>
 
           <v-col cols="12" md="3">
-            <v-list flat color="transparent">
+            <v-list color="transparent" flat>
               <v-subheader class="text-h6">Giraffe</v-subheader>
               <v-list-item-group color="primary">
                 <v-list-item
-                  v-for="(item, i) in shock"
-                  :key="i"
-                  :href="item.href"
-                  dense
-                  target="_black"
+                    v-for="(item, i) in shock"
+                    :key="i"
+                    :href="item.href"
+                    dense
+                    target="_black"
                 >
                   <v-list-item-content>
                     <v-list-item-title
-                      class="text-body-1"
-                      v-text="item.text"
+                        class="text-body-1"
+                        v-text="item.text"
                     ></v-list-item-title>
                   </v-list-item-content>
                 </v-list-item>
@@ -71,15 +71,15 @@
             <v-row>
               <v-col cols="8">
                 <v-text-field
-                  label="Filled"
-                  solo
-                  light
-                  hide-details
+                    hide-details
+                    label="Filled"
+                    light
+                    solo
                 ></v-text-field>
               </v-col>
 
               <v-col cols="4">
-                <v-btn large block color="secondary">
+                <v-btn block color="secondary" large>
                   Subscribe
                 </v-btn>
               </v-col>
@@ -90,16 +90,16 @@
         <div class="text-center mt-6">
           Copyright &copy;
           <a
-            class="white--text"
-            href="https://heroui.net"
-            target="_blank"
-            rel="noopener noreferrer"
-            >HreoUI</a
+              class="white--text"
+              href="https://heroui.net"
+              rel="noopener noreferrer"
+              target="_blank"
+          >HreoUI</a
           >
           {{ new Date().getFullYear() }}. All rights reserved.
         </div>
       </v-container>
-    </v-footer>
+    </v-card>
   </div>
 </template>
 

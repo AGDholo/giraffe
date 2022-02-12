@@ -2,11 +2,9 @@
   <v-app>
     <AppBar></AppBar>
 
-    <v-main>
-      <v-container>
-        <router-view></router-view>
-      </v-container>
-    </v-main>
+    <v-container class="mt-16">
+      <router-view></router-view>
+    </v-container>
 
     <Footer></Footer>
   </v-app>
