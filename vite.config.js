@@ -4,3 +4,9 @@ import tailwindcss from "@tailwindcss/vite";
 import vue from "@vitejs/plugin-vue";
 import { defineConfig } from "vite";
 
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const HOST = "0.0.0.0";
+const REPLACEMENT = `${path.resolve(__dirname, "./src")}/`;
+
+export default defineConfig({
+  base: "./",
