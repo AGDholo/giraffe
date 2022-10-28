@@ -10,3 +10,9 @@ const REPLACEMENT = `${path.resolve(__dirname, "./src")}/`;
 
 export default defineConfig({
   base: "./",
+  server: {
+    host: HOST,
+  },
+  resolve: {
+    extensions: [".vue", ".mjs", ".js", ".ts", ".jsx", ".tsx", ".json"],
+    alias: [
