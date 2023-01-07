@@ -22,3 +22,9 @@ export default defineConfig({
       },
       {
         find: "src/",
+        replacement: REPLACEMENT,
+      },
+    ],
+  },
+  plugins: [vue(), tailwindcss()],
+});
