@@ -16,3 +16,9 @@ export default defineConfig({
   resolve: {
     extensions: [".vue", ".mjs", ".js", ".ts", ".jsx", ".tsx", ".json"],
     alias: [
+      {
+        find: "@/",
+        replacement: REPLACEMENT,
+      },
+      {
+        find: "src/",
