@@ -4,3 +4,9 @@
   --font-sans: "Roboto", ui-sans-serif, system-ui, sans-serif;
   --color-primary: #000000;
   --color-secondary: #818383;
+  --color-accent: #2178ff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
