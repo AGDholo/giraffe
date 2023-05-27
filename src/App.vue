@@ -5,3 +5,10 @@
     <main class="mx-auto mt-16 w-full max-w-[1185px] px-4 sm:px-6">
       <router-view />
     </main>
+
+    <Footer />
+  </div>
+</template>
+
+<script>
+export default {
