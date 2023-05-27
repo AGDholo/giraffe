@@ -1,23 +1,7 @@
 <template>
-  <v-app>
-    <AppBar></AppBar>
+  <div class="min-h-screen bg-white font-sans text-primary">
+    <AppBar />
 
-    <v-container class="mt-16">
-      <router-view></router-view>
-    </v-container>
-
-    <Footer></Footer>
-  </v-app>
-</template>
-
-<script>
-export default {
-  name: "App",
-
-  components: {
-    AppBar: () => import("@/components/layout/appbar.vue"),
-    Footer: () => import("@/components/layout/footer.vue"),
-  },
-  data: () => ({}),
-};
-</script>
+    <main class="mx-auto mt-16 w-full max-w-[1185px] px-4 sm:px-6">
+      <router-view />
+    </main>
