@@ -21,3 +21,14 @@
             :key="`bar-${i}`"
             :to="item.to"
             class="block rounded px-3 py-3 text-base"
+            @click="drawer = false"
+          >
+            {{ item.title }}
+          </router-link>
+        </nav>
+      </aside>
+    </transition>
+
+    <button
+      v-if="drawer"
+      class="fixed inset-0 z-40 bg-black/30 md:hidden"
