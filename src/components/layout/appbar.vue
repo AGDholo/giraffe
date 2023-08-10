@@ -32,3 +32,14 @@
     <button
       v-if="drawer"
       class="fixed inset-0 z-40 bg-black/30 md:hidden"
+      aria-label="Close navigation"
+      type="button"
+      @click="drawer = false"
+    ></button>
+
+    <header class="fixed inset-x-0 top-0 z-30 bg-white/95 shadow-sm backdrop-blur">
+      <div class="mx-auto flex h-16 w-full max-w-[1185px] items-center justify-between px-4 sm:px-6">
+        <div class="flex items-center">
+          <button
+            class="mr-3 inline-flex h-10 w-10 items-center justify-center rounded-full text-2xl md:hidden"
+            aria-label="Open navigation"
