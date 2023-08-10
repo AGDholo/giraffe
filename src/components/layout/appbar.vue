@@ -43,3 +43,15 @@
           <button
             class="mr-3 inline-flex h-10 w-10 items-center justify-center rounded-full text-2xl md:hidden"
             aria-label="Open navigation"
+            type="button"
+            @click.stop="drawer = !drawer"
+          >
+            <i class="mdi mdi-menu"></i>
+          </button>
+
+          <router-link to="/" class="flex items-center text-2xl font-bold text-primary">
+            <i class="mdi mdi-feather mr-1 text-3xl"></i>
+            Hero
+            <span class="text-accent">UI</span>
+          </router-link>
+        </div>
