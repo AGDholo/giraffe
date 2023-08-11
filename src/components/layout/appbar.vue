@@ -55,3 +55,14 @@
             <span class="text-accent">UI</span>
           </router-link>
         </div>
+
+        <nav class="hidden items-center justify-center md:flex">
+          <router-link
+            v-for="(item, i) in barItems"
+            :key="i"
+            :to="item.to"
+            class="px-4 py-2 text-base capitalize text-primary transition-colors hover:text-accent"
+            active-class="text-accent"
+          >
+            {{ item.title }}
+          </router-link>
