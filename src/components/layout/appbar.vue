@@ -77,3 +77,15 @@
             class="ml-3 inline-flex items-center rounded bg-primary px-4 py-2 text-base capitalize text-white transition-colors hover:bg-accent"
           >
             <i :class="['mdi mr-2', item.icon]"></i>
+            {{ item.text }}
+          </a>
+        </div>
+      </div>
+    </header>
+  </div>
+</template>
+
+<script>
+export default {
+  data: () => ({
+    drawer: false,
