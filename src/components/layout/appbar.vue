@@ -89,3 +89,14 @@
 export default {
   data: () => ({
     drawer: false,
+    btnItems: [
+      {
+        text: "Free Download",
+        href: "https://github.com/AGDholo/giraffe",
+        target: "_black",
+        icon: "mdi-download",
+      },
+    ],
+    barItems: [
+      {
+        title: "Home",
