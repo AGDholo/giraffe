@@ -100,3 +100,14 @@ export default {
     barItems: [
       {
         title: "Home",
+        to: "/",
+      },
+      {
+        title: "Category",
+        to: "/category",
+      },
+      {
+        title: "Detail",
+        to: "/detail",
+      },
+      {
