@@ -111,3 +111,15 @@ export default {
         to: "/detail",
       },
       {
+        title: "Authors",
+        to: "/authors",
+      },
+      {
+        title: "Login",
+        to: "/login",
+      },
+    ],
+  }),
+};
+</script>
+
