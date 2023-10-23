@@ -123,3 +123,14 @@ export default {
 };
 </script>
 
+<style scoped>
+.drawer-enter-active,
+.drawer-leave-active {
+  transition: transform 0.2s ease;
+}
+
+.drawer-enter-from,
+.drawer-leave-to {
+  transform: translateX(-100%);
+}
+</style>
