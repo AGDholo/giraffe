@@ -20,3 +20,13 @@
             </li>
           </ul>
         </div>
+
+        <div>
+          <h5 class="text-xl">Giraffe</h5>
+          <ul class="mt-3 space-y-3">
+            <li v-for="(item, i) in shock" :key="i">
+              <a :href="item.href" target="_black" class="text-base hover:text-accent">
+                {{ item.text }}
+              </a>
+            </li>
+          </ul>
