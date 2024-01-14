@@ -41,3 +41,14 @@
           <div class="mt-4 grid grid-cols-[2fr_1fr] gap-3">
             <input
               class="h-12 rounded bg-white px-4 text-primary outline-none"
+              aria-label="Filled"
+              placeholder="Filled"
+            />
+            <button class="h-12 rounded bg-secondary px-3 text-base text-white">
+              Subscribe
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="mt-8 text-center">
