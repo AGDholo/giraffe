@@ -30,3 +30,14 @@
               </a>
             </li>
           </ul>
+        </div>
+
+        <div>
+          <h5 class="text-xl font-bold">Subscribe</h5>
+          <p class="mt-3 text-base leading-7">
+            The latest Rocket news, articles, and resources, sent straight
+            to your inbox every month.
+          </p>
+          <div class="mt-4 grid grid-cols-[2fr_1fr] gap-3">
+            <input
+              class="h-12 rounded bg-white px-4 text-primary outline-none"
