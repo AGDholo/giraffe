@@ -52,3 +52,14 @@
       </div>
 
       <div class="mt-8 text-center">
+        Copyright &copy;
+        <a
+          class="text-white hover:text-accent"
+          href="https://heroui.net"
+          rel="noopener noreferrer"
+          target="_blank"
+        >HreoUI</a>
+        {{ new Date().getFullYear() }}. All rights reserved.
+      </div>
+    </div>
+  </footer>
