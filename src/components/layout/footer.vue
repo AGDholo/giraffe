@@ -63,3 +63,13 @@
       </div>
     </div>
   </footer>
+</template>
+
+<script>
+export default {
+  data: () => ({
+    heroui: [
+      {
+        text: "Github",
+        href: "https://github.com/AGDholo",
+      },
