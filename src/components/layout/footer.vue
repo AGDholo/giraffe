@@ -73,3 +73,14 @@ export default {
         text: "Github",
         href: "https://github.com/AGDholo",
       },
+      {
+        text: "Themes",
+        href: "https://heroui.net/",
+      },
+    ],
+    shock: [
+      {
+        text: "Download",
+        href: "https://github.com/AGDholo/giraffe",
+      },
+      {
