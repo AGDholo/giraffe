@@ -84,3 +84,14 @@ export default {
         href: "https://github.com/AGDholo/giraffe",
       },
       {
+        text: "Issues",
+        href: "https://github.com/AGDholo/giraffe/issues",
+      },
+      {
+        text: "LICENSE",
+        href: "https://github.com/AGDholo/giraffe/blob/master/LICENSE",
+      },
+    ],
+  }),
+};
+</script>
