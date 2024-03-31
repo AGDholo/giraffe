@@ -13,3 +13,10 @@
               alt=""
             />
           </div>
+
+          <div>
+            <span class="inline-flex rounded bg-accent px-3 py-1 text-sm font-medium text-white">TRAVEL</span>
+            <h3 class="py-3 text-xl font-bold text-primary">
+              What do | need to know to start learning JavaScript?
+            </h3>
+            <div class="flex items-center">
