@@ -20,3 +20,10 @@
               What do | need to know to start learning JavaScript?
             </h3>
             <div class="flex items-center">
+              <span class="inline-flex h-6 w-6 items-center justify-center rounded-full bg-accent text-white">
+                <i class="mdi mdi-feather text-sm"></i>
+              </span>
+              <div class="pl-2">Yan Lee · 03 Jan 2019</div>
+            </div>
+          </div>
+        </div>
