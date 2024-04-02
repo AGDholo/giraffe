@@ -27,3 +27,11 @@
             </div>
           </div>
         </div>
+      </div>
+    </section>
+
+    <section class="pt-4">
+      <h3 class="pb-4 text-2xl font-medium">Category</h3>
+      <hr class="border-gray-200" />
+      <div
+        v-for="i in 5"
