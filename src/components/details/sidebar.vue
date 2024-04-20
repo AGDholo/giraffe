@@ -42,3 +42,11 @@
         <div class="text-xl">47</div>
       </div>
     </section>
+
+    <section class="pt-4">
+      <h3 class="pb-4 text-2xl font-medium">Top Authors</h3>
+      <hr class="border-gray-200" />
+      <div class="pt-4">
+        <div class="mb-6 flex items-center" v-for="i in 5" :key="i">
+          <span class="inline-flex h-16 w-16 items-center justify-center rounded-full bg-accent text-white">
+            <i class="mdi mdi-feather text-4xl"></i>
