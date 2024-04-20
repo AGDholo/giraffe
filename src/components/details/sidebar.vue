@@ -35,3 +35,10 @@
       <hr class="border-gray-200" />
       <div
         v-for="i in 5"
+        :key="i"
+        class="my-4 flex items-center justify-between rounded bg-accent p-4 text-white"
+      >
+        <h6 class="text-xl">Travel</h6>
+        <div class="text-xl">47</div>
+      </div>
+    </section>
