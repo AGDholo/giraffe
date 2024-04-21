@@ -50,3 +50,10 @@
         <div class="mb-6 flex items-center" v-for="i in 5" :key="i">
           <span class="inline-flex h-16 w-16 items-center justify-center rounded-full bg-accent text-white">
             <i class="mdi mdi-feather text-4xl"></i>
+          </span>
+          <div class="pl-2">
+            <div class="text-xl">Yan Lee</div>
+            <div class="text-lg">47 Articles</div>
+          </div>
+        </div>
+      </div>
