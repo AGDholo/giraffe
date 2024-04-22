@@ -57,3 +57,10 @@
           </div>
         </div>
       </div>
+    </section>
+
+    <section class="pt-4">
+      <h3 class="pb-4 text-2xl font-medium">Tags</h3>
+      <hr class="border-gray-200" />
+      <div class="flex flex-wrap gap-3 pt-4">
+        <span v-for="i in 7" :key="i" class="rounded-full bg-accent px-3 py-1 text-white">#Images</span>
