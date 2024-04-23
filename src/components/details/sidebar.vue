@@ -72,3 +72,10 @@
       <hr class="border-gray-200" />
       <input
         class="mt-4 h-12 w-full rounded border border-gray-300 px-4 outline-none focus:border-accent"
+        placeholder="Your email adress"
+        type="email"
+      />
+      <button class="mt-4 h-12 w-full rounded bg-accent px-4 text-lg text-white">Subscrbe</button>
+    </section>
+  </aside>
+</template>
