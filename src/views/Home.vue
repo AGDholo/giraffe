@@ -20,3 +20,13 @@
                 <i class="mdi mdi-feather text-3xl"></i>
               </span>
               <div class="pl-2 text-xl">Yan Lee · 22 July 2019</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </router-link>
+
+    <div class="grid gap-8 xl:grid-cols-[2fr_1fr]">
+      <div>
+        <section class="pt-16">
+          <h2 class="pb-4 text-4xl font-bold">Recommended For You</h2>
