@@ -41,3 +41,14 @@
                 class="h-[200px] rounded-2xl bg-cover bg-center p-4 shadow"
                 style="background-image: linear-gradient(to top, rgba(25,32,72,.4), rgba(25,32,72,.0)), url('https://cdn.pixabay.com/photo/2020/12/23/14/41/forest-5855196_1280.jpg')"
               >
+                <router-link class="inline-flex rounded bg-accent px-4 py-2 text-white" to="/category">TIPS</router-link>
+              </div>
+              <div class="p-4">
+                <div class="text-2xl font-bold text-primary">
+                  How to write an awesome blog post in 5 steps
+                </div>
+                <div class="py-4 text-base">
+                  Ultrices sagittis orci a scelerisque. Massa placerat
+                  duis ultricies lacus sed turpis
+                </div>
+                <div class="flex items-center">
