@@ -30,3 +30,14 @@
       <div>
         <section class="pt-16">
           <h2 class="pb-4 text-4xl font-bold">Recommended For You</h2>
+          <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+            <router-link
+              v-for="i in 6"
+              :key="i"
+              to="/detail"
+              class="group block rounded transition-all duration-200 hover:bg-white hover:shadow-xl"
+            >
+              <div
+                class="h-[200px] rounded-2xl bg-cover bg-center p-4 shadow"
+                style="background-image: linear-gradient(to top, rgba(25,32,72,.4), rgba(25,32,72,.0)), url('https://cdn.pixabay.com/photo/2020/12/23/14/41/forest-5855196_1280.jpg')"
+              >
