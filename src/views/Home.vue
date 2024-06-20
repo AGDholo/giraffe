@@ -63,3 +63,13 @@
         </section>
 
         <section class="pt-16">
+          <h2 class="pb-4 text-4xl font-bold">Featured</h2>
+          <div class="grid grid-cols-2 gap-6 lg:grid-cols-3">
+            <div v-for="i in 3" :key="i">
+              <div
+                class="flex h-[600px] flex-col justify-between bg-cover bg-center p-4 text-white shadow"
+                style="background-image: linear-gradient(to top, rgba(25,32,72,.4), rgba(25,32,72,.0)), url('https://cdn.pixabay.com/photo/2019/10/29/14/46/landscape-4587079_1280.jpg')"
+              >
+                <div>
+                  <span class="inline-flex rounded bg-accent px-4 py-2 text-white">ANIMALS</span>
+                </div>
