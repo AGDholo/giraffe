@@ -73,3 +73,14 @@
                 <div>
                   <span class="inline-flex rounded bg-accent px-4 py-2 text-white">ANIMALS</span>
                 </div>
+                <div>
+                  <div class="py-3 text-2xl font-bold leading-tight">
+                    15 things I have always wondered about birds
+                  </div>
+                  <div class="flex items-center">
+                    <span class="inline-flex h-9 w-9 items-center justify-center rounded-full bg-accent text-white">
+                      <i class="mdi mdi-feather"></i>
+                    </span>
+                    <div class="pl-2">Yan Lee · 03 Jan 2019</div>
+                  </div>
+                </div>
