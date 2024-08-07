@@ -84,3 +84,14 @@
                     <div class="pl-2">Yan Lee · 03 Jan 2019</div>
                   </div>
                 </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="pt-16">
+          <h2 class="text-4xl font-bold">Latest Posts</h2>
+          <div>
+            <div v-for="i in 6" :key="i" class="grid gap-6 py-4 md:grid-cols-[1fr_2fr]">
+              <div>
+                <img
