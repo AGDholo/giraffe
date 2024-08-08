@@ -95,3 +95,14 @@
             <div v-for="i in 6" :key="i" class="grid gap-6 py-4 md:grid-cols-[1fr_2fr]">
               <div>
                 <img
+                  class="h-full min-h-52 w-full object-cover"
+                  src="https://cdn.pixabay.com/photo/2021/01/27/06/54/nova-scotia-duck-tolling-retriever-5953883_1280.jpg"
+                  alt=""
+                />
+              </div>
+              <div>
+                <span class="inline-flex rounded bg-accent px-4 py-2 text-white">TRAVEL</span>
+                <h3 class="pt-3 text-4xl font-bold">
+                  Ut enim blandit volutpat maecenas volutpat blandit
+                </h3>
+                <p class="pt-3 text-xl font-normal text-secondary">
