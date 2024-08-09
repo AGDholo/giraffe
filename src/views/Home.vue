@@ -106,3 +106,13 @@
                   Ut enim blandit volutpat maecenas volutpat blandit
                 </h3>
                 <p class="pt-3 text-xl font-normal text-secondary">
+                  Duis aute irure dolor in reprehenderit in voluptate velit
+                  esse cillum dolore eu fugiat nulla pariatur. Excepteur
+                  sint occaecat cupidatat non proident, sunt in culpa qui
+                  officia deserunt mollit anim id est laborum.
+                </p>
+                <div class="mt-4 flex items-center">
+                  <span class="inline-flex h-9 w-9 items-center justify-center rounded-full bg-accent text-white">
+                    <i class="mdi mdi-feather"></i>
+                  </span>
+                  <div class="pl-2">Yan Lee · 03 Jan 2019</div>
