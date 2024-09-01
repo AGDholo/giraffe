@@ -116,3 +116,14 @@
                     <i class="mdi mdi-feather"></i>
                   </span>
                   <div class="pl-2">Yan Lee · 03 Jan 2019</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <div class="pt-16">
+        <siderbar />
+      </div>
+    </div>
