@@ -19,3 +19,10 @@
             class="h-[200px] rounded-2xl bg-cover bg-center p-4 shadow"
             style="background-image: linear-gradient(to top, rgba(25,32,72,.4), rgba(25,32,72,.0)), url('https://cdn.pixabay.com/photo/2016/11/14/04/45/elephant-1822636_1280.jpg')"
           >
+            <span class="inline-flex rounded bg-accent px-4 py-2 text-white">ANIMAL</span>
+          </div>
+
+          <div class="p-4">
+            <div class="text-2xl font-bold text-primary">
+              How to write an awesome blog post in 5 steps
+            </div>
