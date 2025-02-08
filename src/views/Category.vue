@@ -12,3 +12,10 @@
         <router-link
           v-for="i in 18"
           :key="i"
+          to="/detail"
+          class="group block rounded transition-all duration-200 hover:bg-white hover:shadow-xl"
+        >
+          <div
+            class="h-[200px] rounded-2xl bg-cover bg-center p-4 shadow"
+            style="background-image: linear-gradient(to top, rgba(25,32,72,.4), rgba(25,32,72,.0)), url('https://cdn.pixabay.com/photo/2016/11/14/04/45/elephant-1822636_1280.jpg')"
+          >
