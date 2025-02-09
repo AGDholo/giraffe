@@ -34,3 +34,10 @@
               <span class="inline-flex h-9 w-9 items-center justify-center rounded-full bg-accent text-white">
                 <i class="mdi mdi-feather"></i>
               </span>
+              <div class="pl-2">Yan Lee · 22 July 2019</div>
+            </div>
+          </div>
+        </router-link>
+      </div>
+    </div>
+
