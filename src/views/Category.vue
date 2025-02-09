@@ -26,3 +26,11 @@
             <div class="text-2xl font-bold text-primary">
               How to write an awesome blog post in 5 steps
             </div>
+            <div class="py-4 text-base">
+              Ultrices sagittis orci a scelerisque. Massa placerat
+              duis ultricies lacus sed turpis
+            </div>
+            <div class="flex items-center">
+              <span class="inline-flex h-9 w-9 items-center justify-center rounded-full bg-accent text-white">
+                <i class="mdi mdi-feather"></i>
+              </span>
