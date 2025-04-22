@@ -18,3 +18,9 @@
           />
           <div class="text-center">
             <span class="relative -top-[50px] -mb-[50px] inline-flex h-[86px] w-[86px] items-center justify-center rounded-full bg-accent text-white">
+              <i class="mdi mdi-feather text-6xl"></i>
+            </span>
+            <div class="pt-4 text-2xl font-bold text-primary">Yan Lee</div>
+            <div class="py-4 text-base">
+              Ultrices sagittis orci a scelerisque. Massa placerat
+              duis ultricies lacus sed turpis tincidunt id.
