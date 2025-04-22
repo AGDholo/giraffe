@@ -11,3 +11,10 @@
           :key="i"
           class="rounded transition-all duration-200 hover:bg-white hover:shadow-xl"
         >
+          <img
+            class="h-[300px] w-full rounded-2xl object-cover shadow"
+            src="https://cdn.pixabay.com/photo/2021/01/30/20/04/sheltie-5965187_1280.jpg"
+            alt=""
+          />
+          <div class="text-center">
+            <span class="relative -top-[50px] -mb-[50px] inline-flex h-[86px] w-[86px] items-center justify-center rounded-full bg-accent text-white">
