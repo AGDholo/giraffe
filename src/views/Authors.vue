@@ -24,3 +24,9 @@
             <div class="py-4 text-base">
               Ultrices sagittis orci a scelerisque. Massa placerat
               duis ultricies lacus sed turpis tincidunt id.
+            </div>
+            <div class="pb-4">
+              <button class="h-10 w-10 text-2xl" aria-label="Facebook"><i class="mdi mdi-facebook"></i></button>
+              <button class="h-10 w-10 text-2xl" aria-label="Twitter"><i class="mdi mdi-twitter"></i></button>
+              <button class="h-10 w-10 text-2xl" aria-label="YouTube"><i class="mdi mdi-youtube"></i></button>
+              <button class="h-10 w-10 text-2xl" aria-label="Instagram"><i class="mdi mdi-instagram"></i></button>
