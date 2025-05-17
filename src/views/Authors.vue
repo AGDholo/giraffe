@@ -37,3 +37,10 @@
     </div>
 
     <div>
+      <siderbar />
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
