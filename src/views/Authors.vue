@@ -44,3 +44,9 @@
 
 <script>
 export default {
+  name: "Authors",
+  components: {
+    siderbar: () => import("@/components/details/sidebar"),
+  },
+};
+</script>
