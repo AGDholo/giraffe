@@ -42,3 +42,18 @@
           Et magnis dis parturient montes nascetur ridiculus mus mauris vitae. Amet massa vitae tortor condimentum lacinia quis vel eros. Eros
           in cursus turpis massa tincidunt dui ut ornare. Est ante in nibh mauris cursus mattis molestie. Nec ullamcorper sit amet risus nullam
           eget felis eget. Tincidunt praesent semper feugiat nibh sed. Et leo duis ut diam quam nulla pottitor massa id. Convallis convallis tellus id
+          interdum velit laoreet id. Enim ut sem viverra aliquet eget sit. Mollis aliquam ut porttitor leo a diam. Eleifend donec pretium vulputate
+          sapien nec sagittis aliquam. Velit egestas dui id ornares.
+        </p>
+
+        <div class="py-4">
+          <blockquote class="border-l-4 border-accent px-6 py-4 text-center text-xl italic">
+            Srem Ipsum is simply dummy text of the printing and typesetting industry. Lorem lpsum has been
+            the industry's standard dummy text ever since the 1500s. Lorem Ipsum is simply .
+          </blockquote>
+        </div>
+
+        <div class="text-2xl font-bold text-primary">
+          Ultricies mi quis hendrerit dolor
+          <p class="mt-5 text-lg font-medium leading-8 text-primary">
+            Quam adipiscing vitae proin sagittis nisl rhoncus. Integer vitae justo eget magna fermentum iaculis eu non. Vitae congue mauris
