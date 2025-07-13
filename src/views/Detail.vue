@@ -28,3 +28,17 @@
             </span>
             <div class="pl-2 text-base">Yan Lee · 22 July 2019</div>
           </div>
+
+          <div class="flex items-center gap-3">
+            <span class="inline-flex items-center text-sm"><i class="mdi mdi-eye mr-1"></i>1.4k</span>
+            <span class="inline-flex items-center text-sm"><i class="mdi mdi-comment-outline mr-1"></i>7 Comment</span>
+          </div>
+        </div>
+
+        <hr class="my-4 border-gray-200" />
+
+        <p class="text-lg font-medium leading-8 text-primary">
+          Dignissim cras tincidunt lobortis feugiat vivamus at. Amet luctus venenatis lectus magna fringilla. Nibh tellus molestie nunc non blandit.
+          Et magnis dis parturient montes nascetur ridiculus mus mauris vitae. Amet massa vitae tortor condimentum lacinia quis vel eros. Eros
+          in cursus turpis massa tincidunt dui ut ornare. Est ante in nibh mauris cursus mattis molestie. Nec ullamcorper sit amet risus nullam
+          eget felis eget. Tincidunt praesent semper feugiat nibh sed. Et leo duis ut diam quam nulla pottitor massa id. Convallis convallis tellus id
