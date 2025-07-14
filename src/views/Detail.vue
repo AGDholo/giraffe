@@ -57,3 +57,18 @@
           Ultricies mi quis hendrerit dolor
           <p class="mt-5 text-lg font-medium leading-8 text-primary">
             Quam adipiscing vitae proin sagittis nisl rhoncus. Integer vitae justo eget magna fermentum iaculis eu non. Vitae congue mauris
+            rhoncus aenean vel elit. Nibh mauris cursus mattis molestie. Etiam sit amet nisl purus. At auctor urna nunc id cursus metus. Diam in arcu
+            cursus euismod quis viverra nibh cras.
+          </p>
+        </div>
+
+        <div class="my-4 grid grid-cols-2 gap-6">
+          <img
+            class="aspect-video w-full object-cover"
+            src="https://cdn.pixabay.com/photo/2015/03/26/09/47/sky-690293_1280.jpg"
+            alt=""
+          />
+          <img
+            class="aspect-video w-full object-cover"
+            src="https://cdn.pixabay.com/photo/2019/11/01/11/08/landscape-4593909_1280.jpg"
+            alt=""
