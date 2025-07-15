@@ -87,3 +87,18 @@
                 Proin libero nunc consequat interdum varius. Amet luctus venenatis lectus magna fringillal urna porttitor. Enim tortor at auctor
                 urna nunc id cursus.
               </li>
+              <li class="my-2">
+                Volutpat maecenas volutpat blandit aliquam. Adipiscing enim eu turpis egestas pretium aenean pharetra magna Morbi leo
+                urna molestie at elementum eu.
+              </li>
+            </ul>
+            <p>
+              Venenatis a condimentum vitae sapien pellentesque habitant morbi tristique senectus. Semper auctor neque vitae tempus. Magnis dis
+              parturient montes nascetur ridiculus mus. A condimentum vitae sapien pellentesque habitant morbi tristique. Duis ut diam quam nulla
+              porttitor.
+            </p>
+          </div>
+        </div>
+
+        <div class="mt-8 flex flex-col justify-between gap-4 md:flex-row md:items-center">
+          <div class="flex flex-wrap gap-3">
