@@ -72,3 +72,18 @@
             class="aspect-video w-full object-cover"
             src="https://cdn.pixabay.com/photo/2019/11/01/11/08/landscape-4593909_1280.jpg"
             alt=""
+          />
+        </div>
+
+        <div class="text-2xl font-bold text-primary">
+          Nibh tellus molestie nunc non blandit massa enim
+          <div class="mt-5 text-lg font-medium leading-8 text-primary">
+            <ul class="list-disc pl-6">
+              <li class="my-2">
+                Aliquam purus sit amet luctus venenatis lectus magna fringilla urna. Malesuada bibendum arcu vitae elementum curabitur vitae
+                nunc sed. Urna porttitor rhoncus dolor purus non enim praesent elementum facilisis.
+              </li>
+              <li class="my-2">
+                Proin libero nunc consequat interdum varius. Amet luctus venenatis lectus magna fringillal urna porttitor. Enim tortor at auctor
+                urna nunc id cursus.
+              </li>
