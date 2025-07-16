@@ -102,3 +102,18 @@
 
         <div class="mt-8 flex flex-col justify-between gap-4 md:flex-row md:items-center">
           <div class="flex flex-wrap gap-3">
+            <span class="rounded-full bg-accent px-3 py-1 text-white">#Animalis</span>
+            <span class="rounded-full bg-accent px-3 py-1 text-white">#Travel</span>
+            <span class="rounded-full bg-accent px-3 py-1 text-white">#Birds</span>
+          </div>
+
+          <div class="text-2xl">
+            Share >
+            <button class="h-12 w-12 text-primary" aria-label="Facebook"><i class="mdi mdi-facebook text-3xl"></i></button>
+            <button class="h-12 w-12 text-primary" aria-label="Twitter"><i class="mdi mdi-twitter text-3xl"></i></button>
+            <button class="h-12 w-12 text-primary" aria-label="LinkedIn"><i class="mdi mdi-linkedin text-3xl"></i></button>
+            <button class="h-12 w-12 text-primary" aria-label="Instagram"><i class="mdi mdi-instagram text-3xl"></i></button>
+          </div>
+        </div>
+
+        <hr class="my-8 border-gray-200" />
