@@ -117,3 +117,18 @@
         </div>
 
         <hr class="my-8 border-gray-200" />
+
+        <div class="my-8">
+          <div class="flex items-center">
+            <span class="inline-flex h-32 w-32 shrink-0 items-center justify-center rounded-full bg-accent text-white">
+              <i class="mdi mdi-feather text-8xl"></i>
+            </span>
+            <div class="pl-4">
+              <div class="text-2xl font-bold text-primary">
+                Written by
+                <span class="text-accent">Yan Lee</span>
+              </div>
+              <div class="my-2 text-lg">
+                Congue mauris rhoncus aenean vel elit. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Aliquet nec
+                ullamcorper sit amet risus nullam eget felis.
+              </div>
