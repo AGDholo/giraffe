@@ -132,3 +132,17 @@
                 Congue mauris rhoncus aenean vel elit. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Aliquet nec
                 ullamcorper sit amet risus nullam eget felis.
               </div>
+              <div class="text-lg">
+                Get in touch >
+                <button class="h-10 w-10 text-2xl" aria-label="Facebook"><i class="mdi mdi-facebook"></i></button>
+                <button class="h-10 w-10 text-2xl" aria-label="Twitter"><i class="mdi mdi-twitter"></i></button>
+                <button class="h-10 w-10 text-2xl" aria-label="YouTube"><i class="mdi mdi-youtube"></i></button>
+                <button class="h-10 w-10 text-2xl" aria-label="Instagram"><i class="mdi mdi-instagram"></i></button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="grid justify-between gap-6 md:grid-cols-2">
+          <div class="flex items-center">
+            <i class="mdi mdi-arrow-left text-2xl"></i>
