@@ -161,3 +161,18 @@
         </div>
       </div>
     </article>
+
+    <div>
+      <siderbar />
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "Detail",
+  components: {
+    siderbar: () => import("@/components/details/sidebar"),
+  },
+};
+</script>
