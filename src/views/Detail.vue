@@ -146,3 +146,18 @@
         <div class="grid justify-between gap-6 md:grid-cols-2">
           <div class="flex items-center">
             <i class="mdi mdi-arrow-left text-2xl"></i>
+            <div class="pl-2 text-xl text-primary">
+              <div class="text-lg">Previous Post</div>Photos of Jeep models that will change
+              your mood
+            </div>
+          </div>
+          <div class="flex items-center text-right md:justify-end">
+            <div class="pr-2 text-xl text-primary">
+              <div class="text-lg">Next Post</div>What do I need to know to start learning
+              JavaScript?
+            </div>
+            <i class="mdi mdi-arrow-right text-2xl"></i>
+          </div>
+        </div>
+      </div>
+    </article>
