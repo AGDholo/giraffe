@@ -16,3 +16,9 @@
           </label>
           <div class="text-right">
             <button class="rounded bg-primary px-4 py-2 text-white">Login</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
